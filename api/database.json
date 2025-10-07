@@ -1,0 +1,66 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "model": "Macbook Pro",
+            "year": 2020
+        },
+        {
+            "id": 2,
+            "model": "HP Laptop",
+            "year": 2023
+        },
+        {
+            "id": 3,
+            "model": "Dell Notebook",
+            "year": 2024
+        },
+        {
+            "id": 4,
+            "model": "iMac M4",
+            "year": 2021
+        },
+        {
+            "id": 5,
+            "model": "Alienware Desktop",
+            "year": 2025
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Rainu",
+            "lastName": "Ittycheriah",
+            "age": 30,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Jim",
+            "lastName": "Johnson",
+            "age": 28,
+            "computerId": 4
+        },
+        {
+            "id": 3,
+            "firstName": "Samantha",
+            "lastName": "Perkins",
+            "age": 23,
+            "computerId": 3
+        },
+        {
+            "id": 4,
+            "firstName": "Jennifer",
+            "lastName": "Madison",
+            "age": 41,
+            "computerId": 5
+        },
+        {
+            "id": 5,
+            "firstName": "Tina",
+            "lastName": "Heller",
+            "age": 35,
+            "computerId": 2
+        }
+    ]
+}
